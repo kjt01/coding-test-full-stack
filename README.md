@@ -24,6 +24,5 @@ GET - /get/employees/younger/than/25
 2. You are required to submit the result after three days upon receipt of this challenge activity. Please coordinate earlier on if you cannot comply with the target submission deadline.
 3. While we give you the freedom to use your own front-end library or framework to represent the result, please ensure we are able to run your code.
 4. Include in the instruction if we need to install or configure something to run your code.
-You will be receiving a confirmation email from the recruitment team once we received your submission.
-​
+You will be receiving a confirmation email from the recruitment team once we received your submission.    
 Thank you and good luck!
