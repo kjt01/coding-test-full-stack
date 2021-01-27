@@ -1,4 +1,4 @@
-## Full Stack Coding Challenge
+# Wonders Corporation Coding Challenge
 ​
 ### Challenge Targets:
 * Implement the following HTTP API calls by reading the data from employee.json (added in this project) and display the result in a web browser. 
@@ -9,14 +9,14 @@
 ### Sample API Results
 1. Retrieve all employees sorted by salary in ascending order
 ```java
-GET - /get/employees/sorted/salary
+GET - /api/employees/sorted/salary
 ```
 2. Retrieve employees younger than 25
 ```java
-GET - /get/employees/younger/than/25
+GET - /api/employees/younger/than/25
 ```
 ###  Submission Requirements
-1. Please email back the result of your activity (the link of the project under your own GitHub where the files are that we can download and run locally) to Recruitement Team ([recruiting@wondersco.com](email:recruiting@wondersco.com))
+1. Please email back the result of your activity by providing the link of your project under your own GitHub account where the files are that we can cloned and run locally) to Recruitement Team ([coding.challenge@wondersco.com](email:coding.challenge@wondersco.com))
 2. You are required to submit the result after three days upon receipt of this challenge activity. Please coordinate earlier on if you cannot comply with the target submission deadline.
 3. While we give you the freedom to use your own front-end library or framework to represent the result, please ensure we are able to run your code.
 4. Include in the instruction if we need to install or configure something to run your code.
