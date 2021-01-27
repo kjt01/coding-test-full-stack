@@ -20,6 +20,6 @@ GET - /api/employees/sorted/salary
 GET - /api/employees/younger/than/25
 ```
 ###  Submission Requirements
-1. Please email back the result of your activity by providing the link of your GitHub project where the files are that we can cloned and run locally ([coding.challenge@wondersco.com](email:coding.challenge@wondersco.com))
+1. Please email back the result of your activity by providing the link of your GitHub project, where the files can be cloned and run locally. ([coding.challenge@wondersco.com](email:coding.challenge@wondersco.com))
 
 You will be receiving a confirmation email from the recruitment team once we received your submission. We will be informing you of the next steps.
