@@ -16,7 +16,7 @@ GET - /api/employees/sorted/salary
 GET - /api/employees/younger/than/25
 ```
 ###  Submission Requirements
-1. Please email back the result of your activity by providing the link of your project under your own GitHub account where the files are that we can cloned and run locally) to Recruitement Team ([coding.challenge@wondersco.com](email:coding.challenge@wondersco.com))
+1. Please email back the result of your activity by providing the link of your project under your own GitHub account where the files are that we can cloned and run locally) to Recruitment Team ([coding.challenge@wondersco.com](email:coding.challenge@wondersco.com))
 2. You are required to submit the result after three days upon receipt of this challenge activity. Please coordinate earlier on if you cannot comply with the target submission deadline.
 3. While we give you the freedom to use your own front-end library or framework to represent the result, please ensure we are able to run your code.
 4. Include in the instruction if we need to install or configure something to run your code.
