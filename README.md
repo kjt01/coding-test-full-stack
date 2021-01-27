@@ -7,7 +7,7 @@
 * We are looking at the correctness of the code, the handling of edge cases, and how well it is factored (reusable / extensible) including commenting. 
 * We are also looking for a professional web page to display the data. 
 * Please provide us with all the files / instructions we will need to run your code.
-* At the end. show us what you know! Make yourself stand out. But don't over do it, we are looking for practical solutions. ;)
+* At the end, show us what you know! Make yourself stand out. But don't over do it, we are looking for practical solutions. ;)
 * The challenge has to be completed within three days upon receipt of this instruction. Please coordinate earlier on if you cannot comply with the target submission deadline. If you have any questions, do not hesitate to reach out to us for clarification. ([coding.challenge@wondersco.com](email:coding.challenge@wondersco.com))
 ​
 ### Sample API Results
